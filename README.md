@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=britisheep&label=Profile%20views&color=0e75b6&style=flat" alt="britisheep" /> </p>
 
-- 🌱 I’m currently learning **Node.js & MongoDB** - 👨‍💻 All of my projects are available at [https://hasansolak.com/](https://hasansolak.com/)
+- 🌱 I’m currently learning **Node.js & MongoDB**  
+- 👨‍💻 All of my projects are available at [https://hasansolak.com/](https://hasansolak.com/)  
+- 📄 Know about my experiences [https://hasansolak.com/static/media/resume.9930235ed86ec813d352.pdf](https://hasansolak.com/static/media/resume.9930235ed86ec813d352.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
