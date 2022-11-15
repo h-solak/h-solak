@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js & MongoDB**
 
-- 👨‍💻 All of my projects are available at [hasansolak.com](hasansolak.com)
+- 👨‍💻 All of my projects are available at [https://hasansolak.com/](https://hasansolak.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
