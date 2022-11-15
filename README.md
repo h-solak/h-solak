@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Hasan Solak</h1>
+<h1 align="center">
+    Hi 👋, I'm Hasan Solak</h1>
 <h3 align="center">A full-stack front-end developer and a 3rd year student at Boğaziçi University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=britisheep&label=Profile%20views&color=0e75b6&style=flat" alt="britisheep" /> </p>
@@ -22,4 +22,15 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
+</p>
+<p align="left">
+    <span width="40">aa</span>
+    <span width="40">aa</span>
+    <span width="40">aa</span>
+    <span width="40">aa</span>
+    <span width="40">aa</span>
+    <span width="40">aa</span>
+    <span width="40">aa</span>
+    <span width="40">aa</span>
+    <span width="40">aa</span>
 </p>
