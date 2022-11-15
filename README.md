@@ -1,6 +1,10 @@
 <style>
-    h1 {
-        color: red;
+    p>a>span {
+        display: none
+    }
+    
+    p>a:hover p>a>span {
+        display: inline
     }
 </style>
 <h1 align="center">Hi 👋, I'm Hasan Solak</h1>
