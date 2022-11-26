@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi 👋, I'm Hasan Solak</h1>
+    👋Hi, I'm Hasan Solak</h1>
 <h3 align="center">A full-stack front-end developer and a 3rd year student at Boğaziçi University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=britisheep&label=Profile%20views&color=0e75b6&style=flat" alt="britisheep" /> </p>
