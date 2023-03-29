@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js & MongoDB** and developing a mobile app.
 - 👨‍💻 All of my projects are available at [https://hasansolak.com/](https://hasansolak.com/)  
-- 📄 Know about my experiences [download my resume (click here)](https://hasansolak.com/static/media/resume.9930235ed86ec813d352.pdf)
+- 📄 Get to know me [download my resume (click here)](https://hasansolak.com/static/media/resume.9930235ed86ec813d352.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
