@@ -2,9 +2,7 @@
   
 
 - 🔭 I’m currently working at düğün.com  
-  
-
-- 💻 I’m currently learning Vue.js  
+   
   
 
 <br/>  
