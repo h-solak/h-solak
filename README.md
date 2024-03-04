@@ -1,10 +1,6 @@
 ### <div align="center">A front-end developer (currently an intern) and a 4th year student at Boğaziçi University</div>  
   
 
-- 🔭 I’m currently working at düğün.com  
-   
-  
-
 <br/>  
 
 
