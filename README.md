@@ -1,4 +1,4 @@
-### <div align="center">A front-end developer and a 4th year student at Boğaziçi University</div>  
+### <div align="center">A frontend developer with more than 2 years of experience</div>  
   
 
 <br/>  
